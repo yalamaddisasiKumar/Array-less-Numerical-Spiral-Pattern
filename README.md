@@ -1,0 +1,1 @@
+# Array-less-Numerical-Spiral-Pattern
